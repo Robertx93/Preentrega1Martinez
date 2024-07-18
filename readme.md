@@ -1,3 +1,3 @@
 Primera pre entrega de Robert Martinez.
 
-Es un juego llamado piedra, papel o tijera, donde hice uso de las funciones que hemos venido repasando en las clases, asi como de conocimientos basicos de html y css para darle estilo al juego.
+Es un juego llamado piedra, papel o tijera, donde hice uso de los algoritmo condicionales y de ciclo que hemos venido repasando en las clases, donde en este caso se compara la seleccion ejecutada por el usuario y la compara con la seleccion ejecutada por la computadora atraves de un algoritmo random; igual se hizo uso de conocimientos basicos de html y css para darle estilo al juego.
